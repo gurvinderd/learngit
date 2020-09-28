@@ -1,6 +1,10 @@
 #! python3
 
+def add():
+    x = 5+15
+    return x
+
 def main():
-    pass
+    print(add())
 
 main()
