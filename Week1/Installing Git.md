@@ -10,3 +10,14 @@ The first step on the way to using Git is to install it! The directions found in
     https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
     https://docs.github.com/en/github/using-git/setting-your-username-in-git
     https://linuxize.com/post/how-to-configure-git-username-and-email/
+- Hide your email on GitHub :
+  https://www.meziantou.net/hide-your-email-address-on-github.htm
+- Change default text editor of git to Notepad++ or editor of your choice :`git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"`
+- Some references below to setup your default text editor :
+  https://help.github.jp/enterprise/2.11/user/articles/associating-text-editors-with-git/
+  https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration
+  https://docs.github.com/en/github/using-git/associating-text-editors-with-git
+  https://dev.to/biancapower/how-to-change-your-default-text-editor-for-git-and-avoid-vim-fk0
+  https://dev.to/deadlybyte/make-vs-code-your-default-git-editor-j6d
+  https://swcarpentry.github.io/git-novice/02-setup/
+  https://learncode.net/2018/06/11/how-to-change-git-editor-to-notepad-in-windows/
