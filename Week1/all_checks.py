@@ -1,4 +1,4 @@
-#! Users\Gurvinderd\AppData\Local\Programs\Python\Python38\python3
+#! python3
 
 def add():
     x = 5+15
@@ -7,6 +7,6 @@ def add():
 def main():
     print(add())
     print("Add works1")
-    print("Faulty  commit 1")
+    print("Faulty  commit1")
 
 main()
