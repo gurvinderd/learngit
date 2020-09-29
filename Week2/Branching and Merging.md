@@ -1,1 +1,4 @@
-- 
+- `git branch` : List all the branches
+- `git branch new-feature` : Create new branches
+- `git checkout new-feature` : Switch branch. Checkout is used for both latest snapshot of file and branch
+- `git checkout -b even-better-feature` : Create and switch to new branch
