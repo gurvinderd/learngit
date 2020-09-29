@@ -1,0 +1,9 @@
+- Undoing changes can be done in three states, before staging, after staging, after commit.
+- `git checkout fileName`: Used for unstaged files which have been changed. It reverts changes to modified files before they are staged.
+- `git reset HEAD fileNameToBeUnstaged` : Used to reset files which are already staged. It restores the file to the current checkout Version.
+- `git commit --amend` : Overwrite the previous local commit. Do not use to Overwrite commits already pushed.
+- `git revert HEAD` : Rollback last commit. Verify using `git log -p -2`
+- `git revert commitID` :  Rollback changes of a specific commit
+- [Undoing things](https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
+- `git restore --staged <file>` : Unstaging a Staged File with git restore
+- `git restore <file>` : Unmodifying a Modified File with git restore
