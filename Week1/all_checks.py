@@ -7,6 +7,5 @@ def add():
 def main():
     print(add())
     print("Add works1")
-    print("Faulty  commit1")
 
 main()
