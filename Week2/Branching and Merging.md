@@ -4,4 +4,6 @@
 - `git checkout -b even-better-feature` : Create and switch to new branch
 -  `git branch -d new-feature` : Delete branch
 - `git merge even-better-feature` : First do `git branch` to see you are on right branch in which you want to merge changes. If branch is different then do `git checkout master` to switch the branch and run the merge command
-- 
+- `git log --graph --oneline` : commit log summary
+- `git merge --abort` : Abort the merge
+- [CheatSheet](https://www.coursera.org/learn/introduction-git-github/supplement/BbeHl/git-branches-and-merging-cheat-sheet)
