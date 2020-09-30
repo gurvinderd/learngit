@@ -7,5 +7,6 @@ def add():
 def main():
     print(add())
     print("Branching")
+    print("Merging")
 
 main()
