@@ -2,3 +2,6 @@
 - `git branch new-feature` : Create new branches
 - `git checkout new-feature` : Switch branch. Checkout is used for both latest snapshot of file and branch
 - `git checkout -b even-better-feature` : Create and switch to new branch
+-  `git branch -d new-feature` : Delete branch
+- `git merge even-better-feature` : First do `git branch` to see you are on right branch in which you want to merge changes. If branch is different then do `git checkout master` to switch the branch and run the merge command
+- 
