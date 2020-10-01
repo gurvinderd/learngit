@@ -14,7 +14,7 @@ You can join the course [here](https://www.coursera.org/learn/introduction-git-g
 
 ### Check out the following links for more information:
 
-- (https://git-scm.com/doc)
+- [](https://git-scm.com/doc)
 - https://www.mercurial-scm.org/
 - https://subversion.apache.org/
 - https://en.wikipedia.org/wiki/Version_control
