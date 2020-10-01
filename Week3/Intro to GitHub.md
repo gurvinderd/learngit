@@ -1,0 +1,8 @@
+- [Cache Credentials](https://docs.github.com/en/free-pro-team@latest/github/using-git/caching-your-github-credentials-in-git) : `git config --global credentials.helper cache`
+- [Connecting to GitHub using ssh](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/connecting-to-github-with-ssh)
+- [Check exising ssh](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/checking-for-existing-ssh-keys)
+- [Basic GitHub Interaction CheatSheet](https://www.coursera.org/learn/introduction-git-github/supplement/cOouv/basic-interaction-with-github-cheat-sheet)
+- [Change Passphrase](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/working-with-ssh-key-passphrases)
+- `git clone URL` : Clone remote
+- `git push` :  Push commit to remote
+- `git pull` : Pull latest from remote
