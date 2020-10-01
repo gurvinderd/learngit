@@ -1,3 +1,3 @@
-- `git remote -v` : To show configuration of remote
+- `git remote -v` : To show configuration of remote, Verifies the new remote URL
 - `git remote show origin` : More information about remote
 - `git branch -r` : List of remote repository

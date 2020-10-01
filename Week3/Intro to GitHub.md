@@ -6,3 +6,6 @@
 - `git clone URL` : Clone remote
 - `git push` :  Push commit to remote
 - `git pull` : Pull latest from remote
+- `git remote add origin remote repository URL` and `git push origin master` : To push new local repo to remote,
+- [Adding an existing project to GitHub using the command line](https://docs.github.com/en/free-pro-team@latest/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line)
+- [Create a website for the git repo](https://pages.github.com/)
