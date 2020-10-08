@@ -1,10 +1,14 @@
 - `git add -p` : Ask confirmation before staging Files
 - `git commit -m 'commit message goes here'`
 - `git push` : Push changes to remote
-- `git pull`
 - `git log --graph --oneline --all`
 - `git log -p origin/master`
 - `git add FileName`
 - `git commit -m 'commit message'`
-- `git push` : Push changes to remote
+- `git push` : Push changes to remote- `git pull` : Fetch and Merge changes from origin, should show merge conflicts if fast forward merge doesn't work. Three way merge would be required.
+- `git log --graph --oneline --all`
+- `git log -p origin/master`
+- `git add FileName`
+- `git commit "add your commit message here"`
+- `git push`
 - `git log --graph --oneline`
