@@ -1,0 +1,8 @@
+- `git add -p` : Ask confirmation before staging Files
+- `git pull`
+- `git log --graph --oneline --all`
+- `git log -p origin/master`
+- `git add FileName`
+- `git commit`
+- `git push`
+- `git log --graph --oneline`

@@ -11,4 +11,4 @@
 - Deleting, Renaming and Ignoring Files:
   `git rm fileNameToBeDeleted` : Deletes the specified file and adds it to the staging area which needs to be committed.
   `git mv oldFileName newFileName` : Rename file
-  `git add .ignoreFile` : Add files to be ignored to this file
+  `git add .gitignore` : Add files to be ignored to this file

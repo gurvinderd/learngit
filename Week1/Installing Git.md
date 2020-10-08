@@ -9,6 +9,7 @@ The first step on the way to using Git is to install it! The directions found in
 - Setting up Git Config :
     https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
     https://docs.github.com/en/github/using-git/setting-your-username-in-git
+    https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address
     https://linuxize.com/post/how-to-configure-git-username-and-email/
 - Hide your email on GitHub :
   https://www.meziantou.net/hide-your-email-address-on-github.htm
