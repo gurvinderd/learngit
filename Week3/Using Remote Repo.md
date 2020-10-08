@@ -1,3 +1,4 @@
+## Remote, Fetching, Updating Local
 - `git remote -v` : To show configuration of remote, Verifies the new remote URL
 - `git remote show origin` : More information about remote, if the local is out of date.
 - `git branch -r` : List of remote repository
