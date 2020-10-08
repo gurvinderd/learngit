@@ -1,8 +1,8 @@
 - `git add -p` : Ask confirmation before staging Files
-- `git pull`
+- `git pull` : Fetch and Merge changes from origin, should show merge conflicts if fast forward merge doesn't work. Three way merge would be required.
 - `git log --graph --oneline --all`
 - `git log -p origin/master`
 - `git add FileName`
-- `git commit`
+- `git commit "add your commit message here"`
 - `git push`
 - `git log --graph --oneline`
