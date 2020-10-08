@@ -1,3 +1,4 @@
+## Pull Merge Push Workflow
 - `git add -p` : Ask confirmation before staging Files
 - `git commit -m 'commit message goes here'`
 - `git push` : Push changes to remote
@@ -8,3 +9,8 @@
 - `git commit -m 'commit message'`
 - `git push`
 - `git log --graph --oneline`
+
+## Pushing Remote Branches
+- `git checkout -b newfeature` : Create and switch to new branch
+- `git commit -a -m 'commit message'` : Stage and commit new changes, this can stage existing files not the new files.
+- `git push -u origin newfeature` : Create new remote branch and push
