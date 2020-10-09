@@ -14,3 +14,17 @@
 - `git checkout -b newfeature` : Create and switch to new branch
 - `git commit -a -m 'commit message'` : Stage and commit new changes, this can stage existing files not the new files.
 - `git push -u origin newfeature` : Create new remote branch and push
+
+## Rebasing your Changes
+- Rebasing means changing the base commit that's used for our branch
+- Rebase with master
+- `git checkout master` : Switch to master
+- `git pull` : Pull latest master from remote
+- `git log --graph --oneline --all` : Check log
+- `git checkout newfeaturebranch` : Checkout feature branch
+- `git rebase master` : Rebase current checkedout feature branch with master
+- `git checkout master` : Switch to master
+- `git merge newfeaturebranch` : Merge to master
+- `git push --delete origin newfeaturebranch` : Delete remote feature
+- `git branch -d newfeaturebranch` : Delete local feature
+- `git push` : Push to remote
