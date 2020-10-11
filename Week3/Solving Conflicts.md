@@ -17,7 +17,7 @@
 
 ## Rebasing your Changes
 - Rebasing means changing the base commit that's used for our branch
-- Rebase with master
+- Below we will Rebase with master
 - `git checkout master` : Switch to master
 - `git pull` : Pull latest master from remote
 - `git log --graph --oneline --all` : Check log
@@ -28,3 +28,12 @@
 - `git push --delete origin newfeaturebranch` : Delete remote feature
 - `git branch -d newfeaturebranch` : Delete local feature
 - `git push` : Push to remote
+
+## Another Rebasing Example
+- `git commit -a -m "commit message"`
+- `git checkout master`
+- `git fetch` : Fetch from remote
+- `git rebase origin/master` : Rebase with remote master
+- `git add fileName`
+- `git rebase --continue`
+- `git push`
