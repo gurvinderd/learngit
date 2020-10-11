@@ -4,12 +4,12 @@
 - `git branch -r` : List of remote repository
 - `git remote show origin`
 - `git fetch` : Fetch from remote but do not merge to local, ill update only the branch you're on
-- `git log origin/master` :  to check commit log of remote
+- `git log origin/master` :  To check commit log of remote
 - `git status` : git status lets us know if our branch is behind
-- `git merge origin/master` : to merge remote changes to our local
+- `git merge origin/master` : To merge remote changes to our local
 - Git Remotes CheatSheet : https://www.coursera.org/learn/introduction-git-github/supplement/39et3/git-remotes-cheat-sheet
-- `git pull` : will update and merge any remote changes of the current branch you're on. This would be the one you use to update a local branch.
+- `git pull` : Pull will update and merge any remote changes of the current branch you're on. This would be the one you use to update a local branch.
 - `git log -p -1`
 - `git remote show origin`
 - `git checkout experimental`
-- `git remote update` : will update all of your branches set to track remote ones, but not merge any changes in.
+- `git remote update` : Will update all of your branches set to track remote ones, but not merge any changes in.
