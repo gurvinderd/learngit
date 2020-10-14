@@ -1,3 +1,4 @@
+- [Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging#_basic_merging)
 - `git branch` : List all the branches
 - `git branch new-feature` : Create new branches
 - `git checkout new-feature` : Switch branch. Checkout is used for both latest snapshot of file and branch

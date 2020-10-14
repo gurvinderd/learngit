@@ -37,3 +37,11 @@
 - `git add fileName`
 - `git rebase --continue`
 - `git push`
+
+## CheatSheet & Tips
+- `git commit --amend --no-edit` : Update content without changing last commit message
+- https://www.coursera.org/learn/introduction-git-github/supplement/bnibQ/conflict-resolution-cheat-sheet
+- https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts
+- https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line
+- https://git-scm.com/book/en/v2/Git-Branching-Rebasing
+- https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History
