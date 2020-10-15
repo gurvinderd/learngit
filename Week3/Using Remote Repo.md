@@ -4,6 +4,7 @@
 - `git branch -r` : List of remote repository
 - `git remote show origin`
 - `git fetch` : Fetch from remote but do not merge to local, ill update only the branch you're on
+- `git fecth origin` : When on master, fetch latest from remote origin
 - `git log origin/master` :  To check commit log of remote
 - `git status` : git status lets us know if our branch is behind
 - `git merge origin/master` : To merge remote changes to our local
@@ -13,3 +14,4 @@
 - `git remote show origin`
 - `git checkout experimental`
 - `git remote update` : Will update all of your branches set to track remote ones, but not merge any changes in.
+- [Working with remote](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)

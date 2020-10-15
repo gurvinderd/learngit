@@ -16,3 +16,15 @@
 - `git stash --keep-index` : This tells Git to not only include all staged content in the stash being created, but simultaneously leave it in the index
 - `git status -s`
 - `git stash -u` or `git stash --include-untracked` : Git will include untracked files and tracked files in the stash being created
+- `git status -s`
+
+## Creating new branch from Stash
+- `git stash branch <new branchname>` : Creates a new branch for you with your selected branch name, checks out the commit you were on when you stashed your work, reapplies your work there, and then drops the stash if it applies successfully
+
+
+## Cleaning
+- `git clean` : Remove files from your working directory that are not tracked
+- `git stash --all` : Remove everything but save it in a stash
+- `git clean -f -d` :  Removes any files and also any subdirectories that become empty as a result
+- `git clean -d -n` OR `git clean -d --dry-run` : Do a dry run and tell me what you would have removed
+- `git status -s`

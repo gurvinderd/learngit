@@ -18,3 +18,17 @@ You can join the course [here](https://www.coursera.org/learn/introduction-git-g
 - https://www.mercurial-scm.org/
 - https://subversion.apache.org/
 - https://en.wikipedia.org/wiki/Version_control
+
+## Guide and Example Steps to practice
+- [Before Version Control](Week1/Before Version Control.md)
+- [Installing Git](Week1/Installing Git.md)
+- [Using Git](Week1/UsingGit.md)
+- [Advanced Git Interations](Week2/Advanced Git Interations.md)
+- [Branching and Merging](Week2/Branching and Merging.md)
+- [Undoing Changes Before Committing](Week2/Undoing Changes Before Committing.md)
+- [Intro to GitHub](Week3/Intro to GitHub.md)
+- [Solving Conflicts](Week3/Solving Conflicts.md)
+- [Stashing and Cleaning](Week3/Stashing and Cleaning.md)
+- [Using Remote Repo](Week3/Using Remote Repo.md)
+- [Pull Requests](Week4/Pull Requests.md)
+- [CICD](Week4/CICD.md)
